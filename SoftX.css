@@ -705,7 +705,7 @@ body,
 #app-mount .divider__5126c .content__908e2 {
   border-radius: 6px;
   margin: 0;
-  padding: 8px 12px;
+  padding: 4px 8px;
 }
 #app-mount .divider__5126c:not(.isUnread__908e2)::before,
 #app-mount .divider__5126c:not(.isUnread__908e2) .content__908e2 {
