@@ -778,6 +778,7 @@ body,
 #app-mount .cozyMessage__5126c .messageContent_c19a55:not(.repliedTextContent_c19a55):not(:empty) {
   background: var(--chat-bubble-bg);
   margin-left: var(----custom-message-margin-left-content-cozy);
+  padding: var(--chat-bubble-padding);
   border-radius: var(--radius-xs);
   display: var(--chat-bubble-display);
 }
